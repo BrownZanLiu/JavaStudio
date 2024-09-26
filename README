@@ -1,5 +1,5 @@
 This repository will holds all my Java projects.
 
 Repository rationales:
-0) All my common libraries reside in liuzan.common or its subdirectory.
-1) One project, one subdirectory under liuzan.
+0) All my common libraries reside in liuzan or its subdirectory.
+1) One project, one subdirectory.
